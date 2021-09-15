@@ -1,1 +1,3 @@
-console.log("Hello fork-and-branch"); 
+console.log("Hello fork-and-branch!");
+main() {
+}
